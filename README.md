@@ -1,5 +1,5 @@
 ## 💻 About Me
-*Developer, designer, and system administrator based in Germany.*
+*Developer, and system administrator based in Germany. Father of L5ON*
 
 ## 🌊 Technologies & Tools
 ### 🌐 Web Development
@@ -24,6 +24,6 @@
 
 *If you like my work, I would appreciate a ⭐ on the repositories you enjoy!*
 
-  <img src="https://github-readme-stats.vercel.app/api?username=L50N&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dotta4You&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats"/>
 
 </div>
