@@ -3,19 +3,19 @@
 
 ## 🌊 Technologies & Tools
 ### 🌐 Web Development
-![Kotlin](https://img.shields.io/badge/Nuxt.js-1B1F23?style=for-the-badge&logo=kotlin&logoColor=58A6FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1B1F23?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
+![Kotlin](https://img.shields.io/badge/kotlin-1B1F23?style=for-the-badge&logo=kotlin&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/java-1B1F23?style=for-the-badge&logo=java&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1F23?style=for-the-badge&logo=css3&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![PHP](https://img.shields.io/badge/PHP-1B1F23?style=for-the-badge&logo=PHP&logoColor=58A6FF)
 
 ### ⚙️ System Administration and DevOps
 ![Debian](https://img.shields.io/badge/Debian-1B1F23?style=for-the-badge&logo=debian&logoColor=58A6FF)
+![CentOS](https://img.shields.io/badge/Ubuntu-1B1F23?style=for-the-badge&logo=ubuntu&logoColor=58A6FF)
 ![pfSense](https://img.shields.io/badge/pfSense-1B1F23?style=for-the-badge&logoColor=58A6FF&logo=fireship)
 ![Proxmox](https://img.shields.io/badge/Proxmox-1B1F23?style=for-the-badge&logo=proxmox&logoColor=58A6FF)
-![Ansible](https://img.shields.io/badge/Ansible-1B1F23?style=for-the-badge&logo=ansible&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-1B1F23?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-1B1F23?style=for-the-badge&logo=nextcloud&logoColor=58A6FF)
+![NAS](https://img.shields.io/badge/NAS-1B1F23?style=for-the-badge&logo=nas&logoColor=58A6FF)
 
 <br/>
 
