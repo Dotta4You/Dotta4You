@@ -3,8 +3,8 @@
 
 ## 🌊 Technologies & Tools
 ### 🌐 Web Development
-![Kotlin](https://img.shields.io/badge/kotlin-1B1F23?style=for-the-badge&logo=kotlin&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/JAVA-1B1F23?style=for-the-badge&logo=java&logoColor=58A6FF)
+![Kotlin](https://img.shields.io/badge/KOTLIN-1B1F23?style=for-the-badge&logo=kotlin&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/JAVA-1B1F23?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1F23?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![PHP](https://img.shields.io/badge/PHP-1B1F23?style=for-the-badge&logo=PHP&logoColor=58A6FF)
