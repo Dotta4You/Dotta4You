@@ -1,5 +1,5 @@
 ## 💻 About Me
-*Developer, and system administrator based in Germany. Creator of PixelPlayZ and Father of Zevyx*
+*Developer and system administrator based in Germany. Creator of PixelPlayZ and Father of Zevyx*
 
 ## 🌊 Technologies & Tools
 ### 🌐 Development
