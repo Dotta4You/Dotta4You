@@ -15,7 +15,7 @@
 ![pfSense](https://img.shields.io/badge/pfSense-1B1F23?style=for-the-badge&logoColor=58A6FF&logo=fireship)
 ![Proxmox](https://img.shields.io/badge/Proxmox-1B1F23?style=for-the-badge&logo=proxmox&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-1B1F23?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![CloudNet](https://img.shields.io/badge/CloudNet-1B1F23?style=for-the-badge&logo=shield&logoColor=58A6FF)
+![SimpleCloud](https://img.shields.io/badge/SimpleCloud-1B1F23?style=for-the-badge&logo=shield&logoColor=58A6FF)
 
 <br/>
 
